@@ -3,7 +3,7 @@
 export default {
   '@font-size-sm': '12px',
   '@font-size-base': '12px',
-  '@primary-color': '#0064C8',
+  '@primary-color': '#00B14F',
   '@border-radius-base': '0',
   '@border-radius-sm': '0',
 
