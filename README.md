@@ -2,9 +2,8 @@
 
 <div align="center">
 
-[![Travis](https://img.shields.io/travis/ant-design/ant-design-aliyun-theme/master.svg?style=flat-square)](https://travis-ci.org/ant-design/ant-design-aliyun-theme)
-[![npm package](https://img.shields.io/npm/v/@ant-design/aliyun-theme.svg?style=flat-square)](https://www.npmjs.org/package/@ant-design/aliyun-theme)
-[![NPM downloads](http://img.shields.io/npm/dm/@ant-design/aliyun-theme.svg?style=flat-square)](http://npmjs.com/@ant-design/aliyun-theme)
+[![npm package](https://img.shields.io/npm/v/@ajmalafif/barg-theme.svg?style=flat-square)](https://www.npmjs.org/package/@ant-design/aliyun-theme)
+[![NPM downloads](http://img.shields.io/npm/dm/@ajmalafif/barg-theme.svg?style=flat-square)](http://npmjs.com/@ant-design/aliyun-theme)
 
 > Still being experimental, welcome to try out and help us to improve it.
 
@@ -13,7 +12,7 @@
 ## Install
 
 ```bash
-$ npm install @ant-design/barg-theme
+$ npm install @ajmalafif/barg-theme
 ```
 
 ## Usage
@@ -21,7 +20,7 @@ $ npm install @ant-design/barg-theme
 ### webpack
 
 ```js
-import bargTheme from '@ant-design/aliyun-theme';
+import bargTheme from '@ajmalafif/barg-theme';
 
 // webpack.config.js: less-loader
 {
@@ -37,7 +36,7 @@ import bargTheme from '@ant-design/aliyun-theme';
 [https://umijs.org/config/#theme](https://umijs.org/config/#theme)
 
 ```js
-import bargTheme from '@ant-design/aliyun-theme';
+import bargTheme from '@ajmalafif/barg-theme';
 
 // config.js or .umirc.js
 export default {
@@ -50,5 +49,5 @@ export default {
 ### less
 
 ```less
-@import "~@ant-design/aliyun-theme/index.less";
+@import "~@ajmalafif/barg-theme/index.less";
 ```
