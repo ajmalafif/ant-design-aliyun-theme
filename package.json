@@ -1,16 +1,16 @@
 {
-  "name": "@ant-design/aliyun-theme",
-  "version": "0.0.5",
-  "description": "Ant Design Theme for Aliyun console",
+  "name": "@ajmalafif/barg-theme",
+  "version": "0.0.1",
+  "description": "Exploring Custom Ant Design Theme",
   "main": "index.js",
   "module": "index.js",
-  "homepage": "https://github.com/ant-design/ant-design-aliyun-theme",
+  "homepage": "https://github.com/ajmalafif/ant-design-aliyun-theme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ant-design/ant-design-aliyun-theme.git"
+    "url": "git+https://github.com/ajmalafif/ant-design-aliyun-theme"
   },
   "bugs": {
-    "url": "https://github.com/ant-design/ant-design-aliyun-theme/issues"
+    "url": "https://github.com/ajmalafif/ant-design-aliyun-theme/issues"
   },
   "scripts": {
     "tsc": "tsc",
@@ -21,7 +21,7 @@
     "jest": "jest",
     "test": "npm run lint && npm run tsc && jest"
   },
-  "author": "afc163 <afc163@gmail.com>",
+  "author": "ajmalafif <ajmalafif@gmail.com>",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
