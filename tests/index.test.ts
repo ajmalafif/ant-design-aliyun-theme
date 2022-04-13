@@ -6,7 +6,7 @@ interface Vars {
   [key: string]: string;
 }
 
-describe('ant-design-aliyun-theme', () => {
+describe('ant-design-barg-theme', () => {
   it('less compile without errors', () => {
     less
       .render('', {

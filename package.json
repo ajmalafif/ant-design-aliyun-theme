@@ -21,7 +21,7 @@
     "jest": "jest",
     "test": "npm run lint && npm run tsc && jest"
   },
-  "author": "ajmalafif <ajmalafif@gmail.com>",
+  "author": "ajmalafif <contact@ajmalafif.com>",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
